@@ -8,6 +8,22 @@ Equipment Rental is a local-first operations application designed to organize th
 
 > This repository is a **public product showcase only**. The commercial application source code is kept private.
 
+## Product Preview
+
+![Equipment Rental dashboard](assets/dashboard.png)
+
+## Screenshots
+
+| Availability | Reservations |
+| --- | --- |
+| ![Availability](assets/availability.png) | ![Reservations](assets/reservations.png) |
+
+| Active Rentals | Returns |
+| --- | --- |
+| ![Active rentals](assets/active-rentals.png) | ![Returns](assets/returns.png) |
+
+![Invoices](assets/invoices.png)
+
 ## The Problem
 
 Small rental businesses often track equipment, reservations, deposits, pickups, returns, damage, maintenance, and invoices across spreadsheets, paper forms, and memory.
